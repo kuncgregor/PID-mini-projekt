@@ -1,4 +1,4 @@
-# Mini projektic "PID kontroler" pri izbernem predmetu RULE FMF
+# Mini projekt "PID kontroler" pri izbernem predmetu RULE FMF
 
 ## Kaj je PID 
 PID kontroler je opisan z naslednjo enačbo:
