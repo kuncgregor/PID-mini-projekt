@@ -29,6 +29,5 @@ Za ta projekt potrebujete naslednjo strojno opremo:
 3. Print in sestava eksperimenta (V PRIHODNOSTI DODAM NAVODILA)
 4. Konfigurirajte PID parametre v kodi
 
-## Licenca
-Ta projekt je licenciran pod MIT licenco.
+
 
