@@ -5,7 +5,6 @@
 
 $$ u(t) = K_p e(t) + K_i \int_{0}^{t} e(\tau) d\tau + K_d \frac{de(t)}{dt} $$
 
-kjer:
 - $ u(t) $ je izhod kontrolerja
 - $ e(t) $ je napaka (razlika med želeno in dejansko vrednostjo)
 - $ K_p $ je proporcionalni koeficient
